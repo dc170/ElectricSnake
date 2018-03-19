@@ -1,0 +1,13 @@
+{
+  "bot_name": "zerodayforum",
+  "forum_url": "http%3A//qzbkwswfv5k2oj5d.onion/",
+  "login_url": "http%3A//qzbkwswfv5k2oj5d.onion/member.php",
+  "login_user": "hwdemo",
+  "login_password": "Potato123",
+  "subforums_selector": "//td/strong/a/@href",
+  "threads_list": "//tr/td/div/span/a/@href",
+  "threads_titles": "//tr/td/div/span/a/text()",
+  "thread_pages": "//div[@class=\"pagination\"]/a[@class=\"pagination_page\"]/@href",
+  "page_title": "//title/text()",
+  "post_date": "//td[@style=\"white-space: nowrap; text-align: center; vertical-align: middle;\"]/span[@class=\"smalltext\"]/text()"
+}
